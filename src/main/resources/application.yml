@@ -1,0 +1,8 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/OneToMany?createDatabaseIfNotExist=true
+    username: root
+    password: yesithsri
+  jpa:
+    hibernate:
+      ddl-auto: update
