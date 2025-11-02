@@ -19,7 +19,5 @@ It serves as a **practical companion** to the theory explained in my Medium arti
 - 🧠 Understand both **theoretical and practical** sides of JPA relationships  
 - 🧪 In-memory **H2 Database** (easily switchable to MySQL/PostgreSQL)
 
----
 
-## 🧩 Project Structure
 
