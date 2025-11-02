@@ -17,7 +17,6 @@ It serves as a **practical companion** to the theory explained in my Medium arti
 - 🔁 **One-To-Many Bidirectional Mapping** using JPA/Hibernate   
 - ⚙️ Entity Relationship Management (Cascade, Fetch, etc.)  
 - 🧠 Understand both **theoretical and practical** sides of JPA relationships  
-- 🧪 In-memory **H2 Database** (easily switchable to MySQL/PostgreSQL)
 
 
 
